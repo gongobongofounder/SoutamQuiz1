@@ -9,6 +9,11 @@ const correctAnswers = {
     question8: "1",
     question9: "3",
     question10: "3",
+    question11: "1",
+    question12: "4",
+    question13: "1",
+    question14: "3",
+    question15: "1",
 
 };
 let header=document.querySelector(".header")
